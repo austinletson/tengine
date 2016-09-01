@@ -17,11 +17,12 @@ import java.util.Scanner;
  */
 public abstract class StandardTextSystem {
 
-
+    /*this is a doc
+     */
     private Scanner stdInput;
     private PrintStream stdOutput;
     private String defaultPrompt = ">_";
-    private String unrecognizedInputText = "Input unrecognized. Type help for more information about commands"; yo yo yosdfsf
+    private String unrecognizedInputText = "Input unrecognized. Type help for more information about commands";
     private List<Command> allCommands = new ArrayList();
     private List<Command> activeCommands = new ArrayList();
 
