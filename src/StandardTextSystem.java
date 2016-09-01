@@ -21,7 +21,7 @@ public abstract class StandardTextSystem {
     private Scanner stdInput;
     private PrintStream stdOutput;
     private String defaultPrompt = ">_";
-    private String unrecognizedInputText = "Input unrecognized. Type help for more information about commands";
+    private String unrecognizedInputText = "Input unrecognized. Type help for more information about commands"; yo yo yo
     private List<Command> allCommands = new ArrayList();
     private List<Command> activeCommands = new ArrayList();
 
