@@ -1,0 +1,13 @@
+# Gradle files
+.gradle/
+build/
+gradlew
+gradlew.bat
+settings.gradle
+build.gradle
+
+# Java class files
+*.class
+
+
+

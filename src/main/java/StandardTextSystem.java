@@ -17,8 +17,8 @@ import java.util.Scanner;
  */
 public abstract class StandardTextSystem {
 
-    /*this is a doc
-     */
+
+
     private Scanner stdInput;
     private PrintStream stdOutput;
     private String defaultPrompt = ">_";
